@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "express-validator": "^7.0.1",
-    "mongo": "^0.1.0"
+    "mongo": "^0.1.0",
+    "mongoose": "^8.2.4"
   }
 }
